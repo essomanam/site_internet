@@ -1,0 +1,66 @@
+body
+{
+	padding-top: 0px;
+
+}
+.images
+{
+	width: 98%;
+	padding: 01%;
+}
+.image
+{
+	width: 49%;
+    height: 500px;
+}
+h1
+{
+	text-align: center;
+}
+nav
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	padding: 10px;
+	background-color: #faf;
+	position: sticky;
+	top: 0px;
+	height: 40px;
+}
+nav button
+{
+	background-color: white;
+	border-radius: 50px;
+	font-size: 15px;
+}
+.headerfirst
+{
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 10px;
+}
+.headerfirst p
+{
+	margin-right: 10px;
+}
+
+footer
+{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: #f3d;
+	bottom: 0px;
+	color: green; 
+
+
+}
+.fin 
+{
+	display: flex;
+}
+.fin p
+{
+	margin-right: 10px;
+}
